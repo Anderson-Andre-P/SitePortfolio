@@ -14,5 +14,6 @@
  - CSS
  - JavaScript
 
-### Observações
- Apesar de eu ter concluído o tutorial, ainda não tive o tempo necessário para modificar os conteúdos do projeto, isto é: ainda não coloquei fotos minhas e nem meus dados pessoais, pretendo fazer isso futuramente.
+## Observações
+
+Apesar de eu ter concluído o tutorial, ainda não tive o tempo necessário para modificar os conteúdos do projeto, isto é: ainda não coloquei fotos minhas e nem meus dados pessoais, pretendo fazer isso futuramente.
